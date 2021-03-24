@@ -288,7 +288,7 @@ class HomePage extends Component {
 
         {/* About me  */}
         <div id="about" className="container height-633 margin-btm-30">
-          <div className="about-header">About {aboutMe.aboutMeName}</div>
+          <div className="about-header">About {aboutMe.name}</div>
           <div className="disply-flex-jst-cnt-sp-arnd flex-dir-rev">
             <div className="about-desc">
               <p>{aboutMe.aboutMeDesc}</p>

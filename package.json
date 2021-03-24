@@ -17,6 +17,7 @@
     "react-image-lightbox": "^5.1.1",
     "react-material-ui-carousel": "^2.2.1",
     "react-responsive-animate-navbar": "^1.1.8",
+    "react-responsive-carousel": "^3.2.15",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
     "styled-components": "^5.2.1",
