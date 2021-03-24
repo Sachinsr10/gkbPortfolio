@@ -1,9 +1,10 @@
+import aboutMeImg from "../data/aboutMe.jpg";
 const aboutMe = {
     name: "Sri Gopala Krishna Belur",
     email: "testing@getnada.com",
     contactNum: "+91-1234567890",
     aboutMeName: "Sri Gopala Krishna Belur",
-    aboutMeImage: "/data/aboutMe.jpg",
+    aboutMeImage: aboutMeImg,
     fbLink: "http://www.google.com/",
     twitLink: "http://www.google.com/",
     instLink: "http://www.google.com/",

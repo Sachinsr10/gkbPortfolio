@@ -1,67 +1,69 @@
 
+import img1 from "../data/img_snow_wide.jpg";
+import img2 from "../data/About_455_455.jpg";
 const tileData = [
     {
-        url: '/data/img_snow_wide.jpg',
+        url: img1,
         title: 'Image',
         author: 'author',
     },
     {
-        url: '/data/img_snow_wide.jpg',
+        url: img2,
         title: 'Image',
         author: 'author',
     },
     {
-        url: '/data/img_snow_wide.jpg',
+        url: img1,
         title: 'Image',
         author: 'author',
     },
     {
-        url: '/data/img_snow_wide.jpg',
+        url: img2,
         title: 'Image',
         author: 'author',
     },
     {
-        url: '/data/img_snow_wide.jpg',
+        url: img2,
         title: 'Image',
         author: 'author',
     },
     {
-        url: '/data/img_snow_wide.jpg',
+        url: img1,
         title: 'Image',
         author: 'author',
     },
     {
-        url: '/data/img_snow_wide.jpg',
+        url: img2,
         title: 'Image',
         author: 'author',
     },
     {
-        url: '/data/img_snow_wide.jpg',
+        url: img2,
         title: 'Image',
         author: 'author',
     },
     {
-        url: '/data/img_snow_wide.jpg',
+        url: img1,
         title: 'Image',
         author: 'author',
     },
     {
-        url: '/data/img_snow_wide.jpg',
+        url: img2,
         title: 'Image',
         author: 'author',
     },
     {
-        url: '/data/img_snow_wide.jpg',
+        url: img1,
         title: 'Image',
         author: 'author',
     },
     {
-        url: '/data/img_snow_wide.jpg',
+        url: img1,
         title: 'Image',
         author: 'author',
     },
     {
-        url: '/data/About_455_455.jpg',
+        url: img2,
         title: 'Image',
         author: 'author',
     },

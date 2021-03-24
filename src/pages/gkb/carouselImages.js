@@ -1,22 +1,23 @@
+import myImage from '../data/img_snow_wide.jpg'
 const carouselImages=[
     {
-        img: '/data/img_snow_wide.jpg',
+        img: myImage,
         desc: 'Legend 1',
     },
     {
-        img: '/data/img_snow_wide.jpg',
+        img: myImage,
         desc: 'Legend 2',
     },
     {
-        img: '/data/img_snow_wide.jpg',
+        img: myImage,
         desc: 'Legend 3',
     },
     {
-        img: '/data/img_snow_wide.jpg',
+        img: myImage,
         desc: 'Legend 4',
     },
     {
-        img: '/data/img_snow_wide.jpg',
+        img: myImage,
         desc: 'Legend 5',
     }
 ]
